@@ -1,0 +1,15 @@
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.csproj.AssemblyReference.cache
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.AssemblyInfoInputs.cache
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.AssemblyInfo.cs
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.csproj.CoreCompileInputs.cache
+C:\Project\TestExample4\TestExample4\bin\Debug\net6.0\TestExample4.exe
+C:\Project\TestExample4\TestExample4\bin\Debug\net6.0\TestExample4.deps.json
+C:\Project\TestExample4\TestExample4\bin\Debug\net6.0\TestExample4.runtimeconfig.json
+C:\Project\TestExample4\TestExample4\bin\Debug\net6.0\TestExample4.dll
+C:\Project\TestExample4\TestExample4\bin\Debug\net6.0\TestExample4.pdb
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.dll
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\refint\TestExample4.dll
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.pdb
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\TestExample4.genruntimeconfig.cache
+C:\Project\TestExample4\TestExample4\obj\Debug\net6.0\ref\TestExample4.dll
