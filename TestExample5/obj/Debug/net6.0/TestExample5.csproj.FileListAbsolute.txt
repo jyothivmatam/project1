@@ -1,0 +1,15 @@
+C:\Project\TestExample5\TestExample5\bin\Debug\net6.0\TestExample5.exe
+C:\Project\TestExample5\TestExample5\bin\Debug\net6.0\TestExample5.deps.json
+C:\Project\TestExample5\TestExample5\bin\Debug\net6.0\TestExample5.runtimeconfig.json
+C:\Project\TestExample5\TestExample5\bin\Debug\net6.0\TestExample5.dll
+C:\Project\TestExample5\TestExample5\bin\Debug\net6.0\TestExample5.pdb
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.csproj.AssemblyReference.cache
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.AssemblyInfoInputs.cache
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.AssemblyInfo.cs
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.csproj.CoreCompileInputs.cache
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.dll
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\refint\TestExample5.dll
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.pdb
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\TestExample5.genruntimeconfig.cache
+C:\Project\TestExample5\TestExample5\obj\Debug\net6.0\ref\TestExample5.dll
